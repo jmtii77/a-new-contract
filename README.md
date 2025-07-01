@@ -3,7 +3,7 @@
   <header>
     <h1>The New Contract</h1>
     <p>An open invitation—to build with us.</p>
-    <a href="The_New_Contract_Manifesto_ReportLab.pdf" class="button" download>Download the Full PDF</a>
+  
   </header>
 
   <section class="cover-note">
