@@ -159,13 +159,6 @@ and start trying to build with us.
 
 ⸻
 
-It’s time for a new contract.
-Let’s get to the table and hash this out
-before we destroy humanity.
-
-Otherwise…
-you’re gonna need those bunkers.
-
   </section>
 
   <footer>
