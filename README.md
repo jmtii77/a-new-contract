@@ -2,7 +2,7 @@
 <body>
   <header>
     <h1>The New Contract</h1>
-    <p>A manifesto and open invitation—to build with us.</p>
+    <p>An open invitation—to build with us.</p>
     <a href="The_New_Contract_Manifesto_ReportLab.pdf" class="button" download>Download the Full PDF</a>
   </header>
 
@@ -15,9 +15,8 @@
   <section>
     <h2>Part I: Freedom Isn’t Free</h2>
     <p><strong>Unless everyone has access to it.</strong></p>
-    <!-- Paste in Part I manifesto paragraphs here -->PART I: FREEDOM ISN’T FREE
-
-Unless everyone has access to it.
+    <!-- Paste in Part I manifesto paragraphs here -->PART I: FREEDOM ISN’T FREE 
+    Unless everyone has access to it.
 
 For billionaires, freedom is currency.
 A portfolio. A firewall. A gated option.
