@@ -1,29 +1,3 @@
-# a-new-contract
-A-new-contract
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>The New Contract — Manifesto</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <style>
-    body { font-family: Georgia, serif; line-height: 1.6; margin: 2em; color: #222; background: #fafafa; }
-    header { text-align: center; padding-bottom: 2em; }
-    h1 { font-size: 2.5em; margin-bottom: 0.5em; }
-    h2 { font-size: 1.8em; margin-top: 1.5em; }
-    p { margin-bottom: 1em; }
-    .cover-note { background: #eef; padding: 1em; border-left: 5px solid #48a; }
-    footer { text-align: center; margin-top: 3em; font-style: italic; }
-    a.button {
-      display: inline-block;
-      padding: 12px 24px;
-      margin-top: 1em;
-      background: #48a;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 5px;
-    }
-  </style>
 </head>
 <body>
   <header>
